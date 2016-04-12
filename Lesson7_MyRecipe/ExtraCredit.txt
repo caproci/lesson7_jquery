@@ -1,0 +1,3 @@
+Displayed the contents of the unordered list using DOM transversal
+Created a fade in animation for the contents of h3
+Modified the CSS background-color of the h3 elements on the page
